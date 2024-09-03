@@ -161,7 +161,7 @@ elif menu == "About Us":
                 "sebagai": "Anggota",
                 "nim": "122450000",
                 "fun_fact": "Suka Fadil",
-                "motto_hidup": "kocokin dulu aja",
+                "motto_hidup": "aku ganteng",
             },
             {
                 "nama": "D",
