@@ -157,11 +157,11 @@ elif menu == "About Us":
                 "motto_hidup": "Ya apa ya",
             },
             {
-                "nama": "C",
+                "nama": "Muhammad Dzikra",
                 "sebagai": "Anggota",
                 "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "jalanin dulu aja",
+                "fun_fact": "Suka Fadil",
+                "motto_hidup": "kocokin dulu aja",
             },
             {
                 "nama": "D",
