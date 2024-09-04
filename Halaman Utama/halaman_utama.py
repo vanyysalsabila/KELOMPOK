@@ -164,11 +164,11 @@ elif menu == "About Us":
                 "motto_hidup": "saya ganteng",
             },
             {
-                "nama": "D",
+                "nama": "Gusti Putu Ferazka",
                 "sebagai": "Anggota",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "jalanin dulu aja",
+                "nim": "123450046",
+                "fun_fact": "bisa tidur dimana saja",
+                "motto_hidup": "suicide is a sin",
             },
             {
                 "nama": "E",
