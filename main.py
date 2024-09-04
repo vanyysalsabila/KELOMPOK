@@ -10,7 +10,7 @@ Homepage = st.Page("Halaman Utama/halaman_utama.py",
 
 Mahasiswa1 = st.Page(
     "Buku Kating/016_Kemas Veriandra Ramadhan.py",
-    title="016 - Kemas Veriandra Ramadhan",
+    title="016 - Vany Salsabilaaa",
     icon=":material/person:",
 )
 Mahasiswa2 = st.Page(
@@ -20,7 +20,7 @@ Mahasiswa2 = st.Page(
 )
 Mahasiswa3 = st.Page(
     "Buku Kating/001_Eksanty Febriana.py",
-    title="001 - Eksanty Febriana",
+    title="022 - Vany Salsabila Putri",
     icon=":material/person:",
 )
 Mahasiswa4 = st.Page(
