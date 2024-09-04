@@ -164,7 +164,7 @@ elif menu == "About Us":
                 "motto_hidup": "saya ganteng",
             },
             {
-                "nama": "D",
+                "nama": "Hafsa",
                 "sebagai": "Anggota",
                 "nim": "122450000",
                 "fun_fact": "nyemilin es bata",
