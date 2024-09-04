@@ -159,9 +159,9 @@ elif menu == "About Us":
             {
                 "nama": "Muhammad Dzikra",
                 "sebagai": "Anggota",
-                "nim": "122450124",
-                "fun_fact": "Suka Fadil",
-                "motto_hidup": "saya ganteng",
+                "nim": "123450124",
+                "fun_fact": "ga punya suku",
+                "motto_hidup": "yang penting hidup",
             },
             {
                 "nama": "D",
