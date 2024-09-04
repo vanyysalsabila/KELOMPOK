@@ -164,10 +164,10 @@ elif menu == "About Us":
                 "motto_hidup": "saya ganteng",
             },
             {
-                "nama": "D",
+                "nama": "Fairuz Ary sYIFA",
                 "sebagai": "Anggota",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
+                "nim": "122450044",
+                "fun_fact": "ga suka makan kerupuk",
                 "motto_hidup": "jalanin dulu aja",
             },
             {
