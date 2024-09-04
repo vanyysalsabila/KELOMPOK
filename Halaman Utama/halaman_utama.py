@@ -150,10 +150,10 @@ elif menu == "About Us":
                 "motto_hidup": "Ya apa ya",
             },
             {
-                "nama": "B",
-                "sebagai": "Bu Lurah",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
+                "nama": "Fairuz Ary Syifa",
+                "sebagai": "Anggota",
+                "nim": "122450044",
+                "fun_fact": "ga ssuka makan kerupuk",
                 "motto_hidup": "Ya apa ya",
             },
             {
@@ -169,6 +169,7 @@ elif menu == "About Us":
                 "nim": "123450046",
                 "fun_fact": "bisa tidur dimana saja",
                 "motto_hidup": "suicide is a sin",
+
             },
             {
                 "nama": "E",
