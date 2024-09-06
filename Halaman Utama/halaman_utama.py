@@ -147,7 +147,7 @@ elif menu == "About Us":
                 "sebagai": "Pak Lurah",
                 "nim": "123450064",
                 "fun_fact": "main game ama futsal",
-                "motto_hidup": "MU separuh jiwaku",
+                "motto_hidup": "MU separuh jiwaku.",
             },
             {
                 "nama": "Fairuz Ary Syifa",
