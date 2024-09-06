@@ -172,11 +172,11 @@ elif menu == "About Us":
 
             },
             {
-                "nama": "E",
+                "nama": "Zailani Satria",
                 "sebagai": "Anggota",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "123450111",
+                "fun_fact": "nyemilin es",
+                "motto_hidup": "jalanin aja",
             },
         ]
         display_images_with_data(gambar_urls, data_list)
