@@ -143,7 +143,7 @@ elif menu == "About Us":
         ]
         data_list = [
             {
-                "nama": "A",
+                "nama": "Muhammad Hanif Dzaky Arifin",
                 "sebagai": "Pak Lurah",
                 "nim": "123450064",
                 "fun_fact": "main game ama futsal",
