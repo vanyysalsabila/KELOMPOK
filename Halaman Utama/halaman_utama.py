@@ -169,7 +169,6 @@ elif menu == "About Us":
                 "nim": "123450046",
                 "fun_fact": "bisa tidur dimana saja",
                 "motto_hidup": "suicide is a sin",
-
             },
             {
                 "nama": "Zailani Satria",
