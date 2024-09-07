@@ -169,8 +169,6 @@ elif menu == "About Us":
                 "nim": "123450046",
                 "fun_fact": "bisa tidur dimana saja",
                 "motto_hidup": "suicide is a sin",
-<<<<<<< HEAD
-=======
             },
             {
                 "nama": "Vany Salsabila Putri",
@@ -199,7 +197,6 @@ elif menu == "About Us":
                 "nim": "123450111",
                 "fun_fact": "nyemilin es",
                 "motto_hidup": "jalanin aja",
->>>>>>> 4819a3eca989a29a33b5c45050cf3164fb38f10c
             },
             {
                 "nama": "Zailani Satria",
