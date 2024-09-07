@@ -169,7 +169,34 @@ elif menu == "About Us":
                 "nim": "123450046",
                 "fun_fact": "bisa tidur dimana saja",
                 "motto_hidup": "suicide is a sin",
-
+            },
+            {
+                "nama": "Vany Salsabila Putri",
+                "sebagai": "Anggota",
+                "nim": "123450022",
+                "fun_fact": "banyak stok makanan",
+                "motto_hidup": "belum kepikiran",
+            },
+            {
+                "nama": "Zailani Satria",
+                "sebagai": "Anggota",
+                "nim": "123450111",
+                "fun_fact": "nyemilin es",
+                "motto_hidup": "jalanin aja",
+            },
+            {
+                "nama": "Zailani Satria",
+                "sebagai": "Anggota",
+                "nim": "123450111",
+                "fun_fact": "nyemilin es",
+                "motto_hidup": "jalanin aja",
+            },
+            {
+                "nama": "Zailani Satria",
+                "sebagai": "Anggota",
+                "nim": "123450111",
+                "fun_fact": "nyemilin es",
+                "motto_hidup": "jalanin aja",
             },
             {
                 "nama": "Zailani Satria",
