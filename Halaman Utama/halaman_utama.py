@@ -176,7 +176,7 @@ elif menu == "About Us":
                 "nama": "Vany Salsabila Putri",
                 "sebagai": "Anggota",
                 "nim": "123450022",
-                "fun_fact": "banyak stok makanan",
+                "fun_fact": "ga suka buah",
                 "motto_hidup": "belum kepikiran",
             },
             {
