@@ -143,17 +143,17 @@ elif menu == "About Us":
         ]
         data_list = [
             {
-                "nama": "A",
+                "nama": "Muhammad Hanif Dzaky Arifin",
                 "sebagai": "Pak Lurah",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "Ya apa ya",
+                "nim": "123450064",
+                "fun_fact": "main game ama futsal",
+                "motto_hidup": "MU separuh jiwaku.",
             },
             {
-                "nama": "B",
-                "sebagai": "Bu Lurah",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
+                "nama": "Fairuz Ary Syifa",
+                "sebagai": "Anggota",
+                "nim": "122450044",
+                "fun_fact": "ga ssuka makan kerupuk",
                 "motto_hidup": "Ya apa ya",
             },
             {
@@ -176,6 +176,34 @@ elif menu == "About Us":
                 "nim": "123450022",
                 "fun_fact": "banyak stok makanan",
                 "motto_hidup": "belum kepikiran",
+            },
+            {
+                "nama": "Zailani Satria",
+                "sebagai": "Anggota",
+                "nim": "123450111",
+                "fun_fact": "nyemilin es",
+                "motto_hidup": "jalanin aja",
+            },
+            {
+                "nama": "Zailani Satria",
+                "sebagai": "Anggota",
+                "nim": "123450111",
+                "fun_fact": "nyemilin es",
+                "motto_hidup": "jalanin aja",
+            },
+            {
+                "nama": "Zailani Satria",
+                "sebagai": "Anggota",
+                "nim": "123450111",
+                "fun_fact": "nyemilin es",
+                "motto_hidup": "jalanin aja",
+            },
+            {
+                "nama": "Zailani Satria",
+                "sebagai": "Anggota",
+                "nim": "123450111",
+                "fun_fact": "nyemilin es",
+                "motto_hidup": "jalanin aja",
             },
         ]
         display_images_with_data(gambar_urls, data_list)
