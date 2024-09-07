@@ -171,11 +171,11 @@ elif menu == "About Us":
                 "motto_hidup": "suicide is a sin",
             },
             {
-                "nama": "E",
+                "nama": "Vany Salsabila Putri",
                 "sebagai": "Anggota",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "123450022",
+                "fun_fact": "banyak stok makanan",
+                "motto_hidup": "belum kepikiran",
             },
         ]
         display_images_with_data(gambar_urls, data_list)
