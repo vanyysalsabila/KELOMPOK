@@ -148,15 +148,15 @@ elif menu == "Baleg":
         ]
         data_list = [
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "nama": "Kakak fadil",
+                "nim": "1224500032",
+                "umur": "12",
+                "asal":"Palembang",
+                "alamat": "tk",
+                "hobbi": "kelonan sm dzikra",
+                "sosmed": "@fadililili",
+                "kesan": "Kakak ini bisa mengajari saya",  
+                "pesan":"trimziie suda mengajar sayaa!!!"
             },
             {
                 "nama": "Kakak E",
