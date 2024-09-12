@@ -10,7 +10,7 @@ Homepage = st.Page("Halaman Utama/halaman_utama.py",
 
 Mahasiswa1 = st.Page(
     # palu
-    "Buku Kating/016_Kemas Veriandra Ramadhan.py",
+    "Buku Kating/064_Muhammad Hanif Dzaky Arifin.py",
     title="064 - Muhammad Hanif Dzaky Arifin",
     icon=":material/person:",
 )
@@ -28,7 +28,7 @@ Mahasiswa3 = st.Page(
 )
 Mahasiswa4 = st.Page(
     #dzikra
-    "Buku Kating/046_Gusti Putu Ferazka.py",
+    "Buku Kating/124_Muhammad Dzikra.py",
     title="046 - Gusti Putu Ferazka",
     icon=":material/person:",
 )
@@ -58,7 +58,7 @@ Mahasiswa8 = st.Page(
 )
 Mahasiswa9 = st.Page(
     #ilmi
-    "Buku Kating/111_Zailani Satria.py",
+    "Buku Kating/035_Fabiolla Charissa Putri.py",
     title="103 - Fabiolla",
     icon=":material/person:",
 )
@@ -76,7 +76,7 @@ Mahasiswa11 = st.Page(
 )
 Mahasiswa12 = st.Page(
     #wulan
-    "Buku Kating/053_Khazanatil Ilmi.py",
+    "Buku Kating/061_Erma Daniar Safitri.py",
     title="053 - Khazanatil Ilmi",
     icon=":material/person:",
 )
