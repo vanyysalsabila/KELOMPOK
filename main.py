@@ -9,61 +9,73 @@ Homepage = st.Page("Halaman Utama/halaman_utama.py",
     default=True)
 
 Mahasiswa1 = st.Page(
+    # palu
     "Buku Kating/016_Kemas Veriandra Ramadhan.py",
     title="064 - Muhammad Hanif Dzaky Arifin",
     icon=":material/person:",
 )
 Mahasiswa2 = st.Page(
+    # bulu
     "Buku Kating/115_Muhammad Fadil Alfaizi.py",
     title="124 - Muhammad Dzikra",
     icon=":material/person:",
 )
 Mahasiswa3 = st.Page(
+    #padil
     "Buku Kating/022_Vany Salsabila Putri.py",
     title="022 - Vany Salsabila Putri",
     icon=":material/person:",
 )
 Mahasiswa4 = st.Page(
+    
     "Buku Kating/046_Gusti Putu Ferazka.py",
     title="046 - Gusti Putu Ferazka",
     icon=":material/person:",
 )
 Mahasiswa5 = st.Page(
+    
     "Buku Kating/027_Wulan Lumbantoruan.py",
     title="027 - Wulan Lumbantoruan",
     icon=":material/person:",
 )
 Mahasiswa6 = st.Page(
+    
     "Buku Kating/111_Zailani Satria.py",
     title="111 - Zailani Satria",
     icon=":material/person:",
 )
 Mahasiswa7 = st.Page(
+    
     "Buku Kating/079_Hafsa Fazila Arradhi.py",
     title="079 - Hafsa Fazila Arradhi",
     icon=":material/person:",
 )
 Mahasiswa8 = st.Page(
+    
     "Buku Kating/046_Gusti Putu Ferazka.py",
     title="046 - Gusti Putu Ferazka",
     icon=":material/person:",
 )
 Mahasiswa9 = st.Page(
+    
     "Buku Kating/111_Zailani Satria.py",
     title="103 - Fabiolla",
     icon=":material/person:",
 )
 Mahasiswa10 = st.Page(
+    
     "Buku Kating/044_Fairuz Ary Syifa.py",
     title="044 - Fairuz Ary Syifa",
     icon=":material/person:",
 )
 Mahasiswa11 = st.Page(
+    
     "Buku Kating/053_Khazanatil Ilmi.py",
     title="053 - Khazanatil Ilmi",
     icon=":material/person:",
 )
 Mahasiswa12 = st.Page(
+    
     "Buku Kating/053_Khazanatil Ilmi.py",
     title="053 - Khazanatil Ilmi",
     icon=":material/person:",
