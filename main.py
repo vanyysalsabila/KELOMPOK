@@ -14,7 +14,7 @@ Mahasiswa1 = st.Page(
     icon=":material/person:",
 )
 Mahasiswa2 = st.Page(
-    "Buku Kating/020_Try Yani Rizki Nur Rohmah.py",
+    "Buku Kating/115_Muhammad Fadil Alfaizi.py",
     title="124 - Muhammad Dzikra",
     icon=":material/person:",
 )
@@ -29,18 +29,18 @@ Mahasiswa4 = st.Page(
     icon=":material/person:",
 )
 Mahasiswa5 = st.Page(
-    "Buku Kating/014_Deva Anjani Khayyuninafsyah.py",
+    "Buku Kating/027_Wulan Lumbantoruan.py",
     title="027 - Wulan Lumbantoruan",
     icon=":material/person:",
 )
 Mahasiswa6 = st.Page(
-    "Buku Kating/103_Rut Junita Sari Siburian.py",
+    "Buku Kating/111_Zailani Satria.py",
     title="111 - Zailani Satria",
     icon=":material/person:",
 )
 Mahasiswa6 = st.Page(
-    "Buku Kating/103_Rut Junita Sari Siburian.py",
-    title="103 - Rut Junita Sari Siburian",
+    "Buku Kating/079_Hafsa Fazila Arradhi.py",
+    title="079 - Hafsa Fazila Arradhi",
     icon=":material/person:",
 )
 Mahasiswa8 = st.Page(
@@ -49,18 +49,18 @@ Mahasiswa8 = st.Page(
     icon=":material/person:",
 )
 Mahasiswa6 = st.Page(
-    "Buku Kating/103_Rut Junita Sari Siburian.py",
+    "Buku Kating/111_Zailani Satria.py",
     title="103 - Fabiolla",
     icon=":material/person:",
 )
 Mahasiswa6 = st.Page(
-    "Buku Kating/103_Rut Junita Sari Siburian.py",
-    title="103 - Rut Junita Sari Siburian",
+    "Buku Kating/044_Fairuz Ary Syifa.py",
+    title="044 - Fairuz Ary Syifa",
     icon=":material/person:",
 )
 Mahasiswa6 = st.Page(
-    "Buku Kating/103_Rut Junita Sari Siburian.py",
-    title="103 - Rut Junita Sari Siburian",
+    "Buku Kating/053_Khazanatil Ilmi.py",
+    title="053 - Khazanatil Ilmi",
     icon=":material/person:",
 )
 
@@ -74,7 +74,7 @@ if st.session_state.pindah:
     pg = st.navigation(
         {
             "Halaman Utama": [Homepage],
-            "Buku Kating": [Mahasiswa1, Mahasiswa2, Mahasiswa3, Mahasiswa4, Mahasiswa5, Mahasiswa6],
+            "Buku Kating": [Mahasiswa1, Mahasiswa2, Mahasiswa3, Mahasiswa4, Mahasiswa5, Mahasiswa6,],
             "Try Me !!": [KREASI, KREASII],
         }
     )
