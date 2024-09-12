@@ -272,7 +272,7 @@ elif menu == "Departemen PSDA":
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-    Departemen PSDA()
+    Departemen_PSDA()
 
 elif menu == "Departemen MIKFES":
     def Departemen_MIKFES():
@@ -317,7 +317,7 @@ elif menu == "Departemen MIKFES":
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-    Departemen MIKFES()
+    Departemen_MIKFES()
 
 elif menu == "Departemen Eksternal":
     def Departemen_Eksternal():
@@ -363,7 +363,7 @@ elif menu == "Departemen Eksternal":
         ]
         display_images_with_data(gambar_urls, data_list)
 
-    Departemen Eksternal()
+    Departemen_Eksternal()
 elif menu == "Departemen Internal":
     def Departemen_Internal():
         gambar_urls = [
@@ -407,7 +407,7 @@ elif menu == "Departemen Internal":
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-    Departemen Internal()
+    Departemen_Internal()
 
 elif menu == "Departemen SSD":
     def Departemen_SSD():
@@ -452,6 +452,6 @@ elif menu == "Departemen SSD":
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-    Departemen SSD()
+    Departemen_SSD()
 
 # Tambahkan menu lainnya sesuai kebutuhan
