@@ -175,7 +175,7 @@ elif menu == "About Us":
                 "sebagai": "Anggota",
                 "nim": "123450022",
                 "fun_fact": "ga suka buah",
-                "motto_hidup": "belum kepikiran",
+                "motto_hidup": "belum kepikiran.",
             },
             {
                 "nama": "Zailani Satria",
