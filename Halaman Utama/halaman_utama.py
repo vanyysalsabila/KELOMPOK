@@ -185,11 +185,11 @@ elif menu == "About Us":
                 "motto_hidup": "jalanin aja",
             },
             {
-                "nama": "Zailani Satria",
+                "nama": "Wulan Lumbantoruan",
                 "sebagai": "Anggota",
-                "nim": "123450111",
-                "fun_fact": "nyemilin es",
-                "motto_hidup": "jalanin aja",
+                "nim": "123450027",
+                "fun_fact": "suka tidur",
+                "motto_hidup": "yang penting hidup",
             },
             {
                 "nama": "Zailani Satria",
