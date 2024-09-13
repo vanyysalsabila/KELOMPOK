@@ -192,11 +192,11 @@ elif menu == "About Us":
                 "motto_hidup": "jalanin aja",
             },
             {
-                "nama": "Zailani Satria",
+                "nama": "Khazanatil Ilmi",
                 "sebagai": "Anggota",
-                "nim": "123450111",
-                "fun_fact": "nyemilin es",
-                "motto_hidup": "jalanin aja",
+                "nim": "123450053",
+                "fun_fact": "suka dazai",
+                "motto_hidup": "marriage is scray",
             },
             {
                 "nama": "Zailani Satria",
