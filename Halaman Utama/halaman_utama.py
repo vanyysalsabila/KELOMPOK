@@ -196,7 +196,7 @@ elif menu == "About Us":
                 "sebagai": "Anggota",
                 "nim": "123450053",
                 "fun_fact": "suka dazai",
-                "motto_hidup": "marriage is scray",
+                "motto_hidup": "marriage is scary",
             },
             {
                 "nama": "Zailani Satria",
